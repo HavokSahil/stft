@@ -45,6 +45,8 @@ Output files:
 ------------------------------------------------------------
 ## 4. FILE DESCRIPTIONS
 ------------------------------------------------------------
+| filename          | description                                             |
+|-------------------|---------------------------------------------------------|
 | stft.h            | STFT core header + implementation (single-header style) |
 | test\_stft.c      | Unit test for STFT with synthetic signals               |
 | stft\_test_plot.c | Test + signal generator + binary output dumper          |
